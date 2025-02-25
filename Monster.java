@@ -12,7 +12,7 @@ public class Monster
   }
 
   public String kill(){
-    return myName + " killed a victim.  Screams were heard.\n";
+    return myName + " made some leg hair salami.  mmmmmmm slammy. \n";
   }
 
   public String toString() {
