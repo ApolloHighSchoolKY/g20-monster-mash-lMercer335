@@ -11,5 +11,9 @@ public String kill(){
 
 }
 
+public String toString(){
+    return "AAAHHHHH IM MEELLTIINNGGG OOOOOWWWUUUUCCHHHH";
+}
+
 }
 //HW  make a new monster type that extends monster type ( new file), oveeride kill and make something new

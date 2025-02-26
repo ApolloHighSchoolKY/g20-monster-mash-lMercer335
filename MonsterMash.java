@@ -9,5 +9,7 @@ public class MonsterMash{
 
     Monster west = new Witch("Wicked Witch of the West");
     System.out.println(west);
+    System.out.println(west.kill());
+    
   }
 }

@@ -1,0 +1,17 @@
+public class AnimalFarm {
+    public static void main (string {} args)(
+        System.out.println("Welcome to the animal famr");
+
+       /*
+       Animal animal = new Animal()
+        System.out.println(Animal.speak());
+        animal.kill();
+
+        Animal animaldos = new Animal()
+        animaldos.speak();
+        animaldos.getOlder();
+     */ 
+
+
+    )
+}
